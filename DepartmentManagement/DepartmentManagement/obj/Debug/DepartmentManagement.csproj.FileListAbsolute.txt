@@ -1,0 +1,9 @@
+D:\C#\DepartmentManagement\DepartmentManagement\bin\Debug\DepartmentManagement.exe.config
+D:\C#\DepartmentManagement\DepartmentManagement\obj\Debug\DepartmentManagement.csprojResolveAssemblyReference.cache
+D:\C#\DepartmentManagement\DepartmentManagement\obj\Debug\DepartmentManagement.Form1.resources
+D:\C#\DepartmentManagement\DepartmentManagement\obj\Debug\DepartmentManagement.Properties.Resources.resources
+D:\C#\DepartmentManagement\DepartmentManagement\obj\Debug\DepartmentManagement.csproj.GenerateResource.Cache
+D:\C#\DepartmentManagement\DepartmentManagement\bin\Debug\DepartmentManagement.exe
+D:\C#\DepartmentManagement\DepartmentManagement\bin\Debug\DepartmentManagement.pdb
+D:\C#\DepartmentManagement\DepartmentManagement\obj\Debug\DepartmentManagement.exe
+D:\C#\DepartmentManagement\DepartmentManagement\obj\Debug\DepartmentManagement.pdb
